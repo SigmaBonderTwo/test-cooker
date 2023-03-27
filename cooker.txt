@@ -1,2 +1,3 @@
 induction
 2000 watts
+at least 10 power levels
